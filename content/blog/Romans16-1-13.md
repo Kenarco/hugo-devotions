@@ -13,7 +13,6 @@ the giving of money. I find this to be significant. Here in our text, Jesus weig
 (Luk 16:3)  And the manager said to himself, ‘What shall I do, since my master is taking the management away from me? I am not strong enough to dig, and I am ashamed to beg.
 
 (Luk 16:4)  I have decided what to do, so that when I am removed from management, people may receive me into their houses.’
-<br>
 
 (Luk 16:5)  So, summoning his master's debtors one by one, he said to the first, ‘How much do you owe my master?’
 
