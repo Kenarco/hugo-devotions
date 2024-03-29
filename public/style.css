@@ -12,6 +12,9 @@ main {
 img {
 	max-width: 100% ;
 }
+a {
+	color: red;
+}
 
 header h1 {
 	text-align: center ;

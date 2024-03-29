@@ -4,20 +4,21 @@ date = 2024-03-28T12:16:29+08:00
 +++
 
 (Luk 16:1)  He also said to the disciples, “There was a rich man who had a manager, and charges were brought to him that this man was wasting his possessions.
-<br><br>
+
 (Luk 16:2)  And he called him and said to him, ‘What is this that I hear about you? Turn in the account of your management, for you can no longer be manager.’
 
 Surprising as it may be, Jesus said more about money than about any other single subject. Fully one-sixth of the Gospels of Matthew, Mark, and Luke deal with money—as do twelve of the thirty-eight parables. Why? A study several years ago revealed that the average American adult male spends 50 percent of his time dealing with money-related matters—how to make more, how to spend less, what to do with what he has. No wonder, then, that Jesus had so much to say about money. The longest chapter in the Bible, Psalm 119, deals with the Word. But the second longest, Numbers 7, is all about 
 the giving of money. I find this to be significant. Here in our text, Jesus weighs in on the matter…
 
 (Luk 16:3)  And the manager said to himself, ‘What shall I do, since my master is taking the management away from me? I am not strong enough to dig, and I am ashamed to beg.
-<br>
+
 (Luk 16:4)  I have decided what to do, so that when I am removed from management, people may receive me into their houses.’
 <br>
+
 (Luk 16:5)  So, summoning his master's debtors one by one, he said to the first, ‘How much do you owe my master?’
-<br>
-(Luk 16:6)  He said, ‘A hundred measures of oil.’ He said to him, ‘Take your bill, and sit down quickly and write fifty.’
-<br>
+
+(Luk 16:6)  He said, ‘A hundred measures of oil.’ He said to him, ‘Take your bill, and sit down quickly and write fifty. 
+
 (Luk 16:7)  Then he said to another, ‘And how much do you owe?’ He said, ‘A hundred measures of wheat.’ He said to him, ‘Take your bill, and write eighty.’
 
 Realizing his days of employment were numbered, the steward devised a plan whereby he cut in half the debts of those who owed his employer money, knowing they would return the favor by taking care of him when he was out of work.
